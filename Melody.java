@@ -1,4 +1,4 @@
-// Linh Nguyen 2021 lnguyen@colgate.edu
+ 
 
 public class Melody {
 	private double duration; 
