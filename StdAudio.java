@@ -1,5 +1,6 @@
 /*************************************************************************
-  * 
+  * @author Frank M. Carrano
+    @author Timothy M. Henry
   *  Compilation:  javac StdAudio.java
   *  Execution:    java StdAudio
   *  
